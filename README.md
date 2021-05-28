@@ -1,6 +1,9 @@
 # File-encrypter-decrypter
 A file encrypter / decrypter based on XOR
 
+Every .exe that I provide in this repository are compiled python script using pyinstaller
+
+
 
 # How to use the GUI version of the python script ? : 
 
