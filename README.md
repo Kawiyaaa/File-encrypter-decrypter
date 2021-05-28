@@ -2,7 +2,7 @@
 A file encrypter / decrypter based on XOR
 
 
-# How to use the GUI version ? : 
+# How to use the GUI version of the python script ? : 
 
 
 1.Download python 3.9 (didn't tried the other versions)
