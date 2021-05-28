@@ -7,7 +7,7 @@ A file encrypter / decrypter based on XOR
 
 1.Download python 3.9 (didn't tried the other versions)
 
-2. Download the "FileEncrypterDecrypter.py" python script
+2. Download the "FileEncrypterDecrypterGUI.py" python script
 
 4. Execute the python script and select the file you want to encrypt / decrypt
 
