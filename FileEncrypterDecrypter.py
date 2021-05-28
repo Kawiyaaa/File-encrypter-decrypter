@@ -1,6 +1,6 @@
 import os
 from hashlib import *
-from tkinter import Tk     # from tkinter import Tk for Python 3.x
+from tkinter import Tk     
 from tkinter.filedialog import askopenfilename
 import time
 
