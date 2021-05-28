@@ -3,6 +3,8 @@ A file encrypter / decrypter based on XOR
 
 Every .exe that I provide in this repository are compiled python script using pyinstaller
 
+If your anti-virus software detect it as a virus, it isn't, it may be detected as one becuase it read the binary data of a file and build a new one from this binary data, if you don't want to take any risk, check the code of the script and build the .exe by yourslef for poratble usage 
+
 
 
 # How to use the GUI version of the python script ? : 
